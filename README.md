@@ -1,2 +1,2 @@
 # motor_program
-aaaaaa
+aaaaaabbbbbb
